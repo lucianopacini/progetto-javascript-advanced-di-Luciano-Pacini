@@ -1,0 +1,20 @@
+{
+  "name": "progetto-javascript-advanced-di-luciano-pacini",
+  "version": "1.0.0",
+  "description": "Un’applicazione web che permette di esplorare libri per categoria utilizzando le API di Open Library, con un’interfaccia pulita, fluida e orientata all’esperienza utente.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.105.2",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.13.5"
+  }
+}

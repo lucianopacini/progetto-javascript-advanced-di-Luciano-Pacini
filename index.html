@@ -1,0 +1,51 @@
+<!--
+Owly Books
+Applicazione per cercare libri tramite API
+Autore: Luciano Pacini
+-->
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Owly Books permette di cercare libri per categoria utilizzando API esterne.">
+
+    <title>Owly Books – Incentiva la lettura</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./src/style.css" />
+</head>
+
+<body>
+
+    <main class="container">
+        <h1>📚 Owly Books</h1>
+        <p>Esplora migliaia di titoli e trova la tua prossima avventura</p>
+
+        <div class="search-box">
+            <label for="categoryInput">Scegli un genere</label>
+            <input type="text" id="categoryInput" placeholder="Es. fantasy, history, science..." />
+            <button id="searchBtn" type="button">Cerca</button>
+        </div>
+
+
+
+        <div id="loadingMessage" class="hidden">
+            <div id="loader"></div>
+            <p>Caricamento in corso… 📚⏳</p>
+        </div>
+
+
+        <section id="results">
+            <!-- Qui verranno mostrati i libri -->
+
+        </section>
+
+    </main>
+
+    <!-- JS -->
+    <script src="./dist/bundle.js"></script>
+</body>
+
+</html>
