@@ -1,8 +1,8 @@
 # 📚 Book Explorer – Open Library
 
 ![Anteprima Owly Books](./screenshot-owly.png)
-**Demo live:** [Clicca qui per vedere l’app funzionare]https://lucianopacini.github.io/progetto-javascript-advanced-di-Luciano-Pacini/
-**Repo codice sorgente:** [Clicca qui per vedere il repository]https://github.com/lucianopacini/progetto-javascript-advanced-di-Luciano-Pacini
+**Demo live:** [Clicca qui per vedere l’app funzionare](https://lucianopacini.github.io/progetto-javascript-advanced-di-Luciano-Pacini/)
+**Repo codice sorgente:** [Clicca qui per vedere il repository](https://github.com/lucianopacini/progetto-javascript-advanced-di-Luciano-Pacini)
 
 Un’applicazione web che permette di esplorare libri per categoria utilizzando le API di Open Library, con un’interfaccia pulita, fluida e orientata all’esperienza utente.
 
