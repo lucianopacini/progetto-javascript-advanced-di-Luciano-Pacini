@@ -122,5 +122,6 @@ Migliore gestione degli errori API
 
 ## 🙌 Autore
 
-Luciano Pacini 
+Luciano Pacini
+
 Progetto realizzato durante il mio percorso di rinascita nel mondo dello sviluppo web 🚀
