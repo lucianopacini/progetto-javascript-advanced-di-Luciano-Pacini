@@ -122,5 +122,5 @@ Migliore gestione degli errori API
 
 ## 🙌 Autore
 
-Progetto realizzato da Luciano
-Full Stack Developer in formazione
+Luciano Pacini 
+Progetto realizzato durante il mio percorso di rinascita nel mondo dello sviluppo web 🚀
